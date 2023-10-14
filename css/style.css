@@ -192,8 +192,10 @@ header h1 {
 	padding-top:  15px;
 }
 
-.lower-right-content h4{
+.lower-right-content a{
 	padding-top: 10px;
+	text-decoration: none;
+	color: black;
 
 }
 
